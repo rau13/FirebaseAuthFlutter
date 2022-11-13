@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338077856052",
+    "project_id": "fir-authforwork",
+    "storage_bucket": "fir-authforwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338077856052:android:6839c1246160235334f561",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338077856052-0mtpj9r71kqptfb4eq1lunkhpg6eb0rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Mrwe2cjSw_q0RFxTFXmFZ3CN3823wOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338077856052-0mtpj9r71kqptfb4eq1lunkhpg6eb0rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
